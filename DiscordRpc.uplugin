@@ -12,7 +12,7 @@
 	"Modules": [
 		{
 			"Name": "DiscordRpc",
-			"Type": "Runtime",
+			"Type": "ClientOnly",
 			"LoadingPhase": "PreDefault",
 			"PlatformAllowList": [
 				"Win64",
